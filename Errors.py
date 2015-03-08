@@ -1,0 +1,2 @@
+class HttpCodeNotSupportedError(object):
+    pass
